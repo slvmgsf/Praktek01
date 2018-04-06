@@ -18,6 +18,8 @@ public class KomputerAksi {
         Ana.RAM="2GB";
         Ana.Warna="Hitam";
         Ana.OS="Windows XP";
+        
+        Ana.cetakInfo();
     }
   
 }
