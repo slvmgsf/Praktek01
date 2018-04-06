@@ -12,6 +12,12 @@ package praktek01;
 public class KomputerAksi {
     public static void main(String[] args) {
         Komputer Ana = new Komputer();
+        
+        Ana.Monitor="LG";
+        Ana.Mouse="Mouse Wireless";
+        Ana.RAM="2GB";
+        Ana.Warna="Hitam";
+        Ana.OS="Windows XP";
     }
   
 }
