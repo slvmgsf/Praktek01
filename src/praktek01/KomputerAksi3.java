@@ -10,5 +10,7 @@ package praktek01;
  * @author C55D
  */
 public class KomputerAksi3 {
-    
+     public static void main(String[] args) {
+         Komputer Ane = new Komputer();
+     }
 }
