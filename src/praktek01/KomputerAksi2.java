@@ -18,6 +18,8 @@ public class KomputerAksi2 {
         Ani.RAM="1GB";
         Ani.Warna="Hitam";
         Ani.OS="Windows 8";
+        
+         Ani.cetakInfo();
     }
     
 }
