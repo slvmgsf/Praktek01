@@ -18,5 +18,7 @@ public class KomputerAksi3 {
         Ane.RAM="8GB";
         Ane.Warna="Putih";
         Ane.OS="Windows 10";
+        
+        Ane.cetakInfo();
      }
 }
