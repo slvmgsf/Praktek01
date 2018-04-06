@@ -11,7 +11,7 @@ package praktek01;
  */
 public class KomputerAksi {
     public static void main(String[] args) {
-        
+        Komputer Ana = new Komputer();
     }
   
 }
